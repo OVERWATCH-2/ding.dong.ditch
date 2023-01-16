@@ -1,4 +1,4 @@
-# "i was squishing mr. ants all day."
+# "that's my friend, henrietta."
 
 <p>greetings and salutations!<p/>
 <p>ether / sash / charlie</br>
